@@ -105,4 +105,4 @@ class Main(Tk):
 
 
 
-Main().Test()
+Main()
